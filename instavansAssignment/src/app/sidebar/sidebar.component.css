@@ -1,0 +1,35 @@
+.sidebar{
+	width: 300px;
+	background-color: white;
+	box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.08);
+	padding: 12px;
+    margin-top: 20px;
+
+}
+.sidebar ul{
+	margin-left: 15px;
+	/*padding: 20px 5px;*/
+}
+.sidebar ul li{
+	list-style: none;
+	padding: 20px;
+}
+.sidebar ul li a{
+	text-decoration: none;
+	color: gray;
+	font-size: 16px;
+}
+.library{
+font-size: 19px;
+ 	opacity: 0.3;
+ 	margin-top: 35px;
+ 	font-weight: bold;
+}
+.home{
+	margin-top: 25px;
+}
+.sidebar ul li a:hover{
+	color: red;
+	font-weight: bold;
+
+}
